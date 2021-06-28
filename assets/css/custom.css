@@ -4,4 +4,5 @@ section {
 header {
   right: 70%;
   width: 300px;
+  z-index: -1;
 }
