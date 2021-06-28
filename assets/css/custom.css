@@ -2,5 +2,5 @@ section {
   width: 80%;
 }
 header {
-  position: relative;
+  position: static;
 }
