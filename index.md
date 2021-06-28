@@ -8,7 +8,7 @@ I am a second-year Master student at Huazhong University of Science and Technolo
 
 I am interested in point set registration, image registration and deep learning, especially Gaussian mixture model (GMM) and whole slide image (WSI) analysis.
 
-Recently I have submitted a preprint paper, and have been working on an on-going in-the-wild emotion recognition competition associated with **ICCV 2021**. Our model on the validation set significantly outperform the baseline and the champion of last year.
+Recently I have submitted a preprint paper, and have been working on an on-going in-the-wild emotion recognition competition associated with **ICCV 2021**. Our model on the validation set significantly outperforms the baseline and the champion of last year.
 
 # Research Experience
 
