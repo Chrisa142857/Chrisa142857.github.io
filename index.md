@@ -31,11 +31,8 @@ Recently I have submitted a preprint paper, and have been working on an on-going
 |                                     | B.Sc.,                         | Computer Science  |
 
 ## Hobbies
-- Kendo
-- Violin
-- Climbing
-- Sci-fi
-- Movie
-- comics
-- fantasy
-- etc.
+
+| - Kendo | - Violin | - Sci-fi |
+| - Climbing | - Movie | - Vedio Games |
+| - comics | - fantasy | etc. |
+
