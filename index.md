@@ -32,6 +32,7 @@ Recently I have submitted a preprint paper, and have been working on an on-going
 
 ## Hobbies
 
+|         |           |   |
 |:------|:------|:------|
 | - Kendo | - Violin | - Sci-fi |
 | - Climbing | - Movie | - Vedio Games |
