@@ -2,122 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About me
 
-[Link to another page](./another-page.html).
+I am a second-year Master student at Huazhong University of Science and Technology. My Advisor is Prof. [Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm).
 
-There should be whitespace between paragraphs.
+I am interested in point set registration, image registration and deep learning, especially Gaussian mixture model (GMM) and whole slide image (WSI) analysis.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Recently I submitted a preprint paper, and have been working on an on-going in-the-wild emotion recognition competition associated with **ICCV 2021**. The goal is to temporally continuously predict the emotional state of a subject, using either visual, aural, speech, or all information. Our model significantly outperform the baseline and the champion of last year. I acquired solid theoretical and engineering experience through this challenge.
 
-# Header 1
+# Research Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
+|         |           |   |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Sept. 2019 - Now         | **Collaborative Innovation Center for Biomedical Engineering**, | China  |
+|                                     | Wuhan National Laboratory for Optoelectronics,  |  HUST  |
+|                                     | Advisor:                   | [Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm)   |
+| Sept. 2015 - Jul. 2019 | **Lab of Pattern Recognition and Artificial Intelligence**, | China  |
+|                                     | School of Information Science and Technology, | YNNU  |
+|                                     | Advisor:                   | [Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN)   |
 
-### There's a horizontal rule below this.
+# Education
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+|         |           |   |
+|:-------------|:------------------|:------|
+| Sept. 2019 - Now         | **Huazhong Univ. of Science and Technology**, | China  |
+|                                     | M.Sc.,                       | Biomedical Engineering  |
+| Sept. 2015 - Jul. 2019 | **YunNan Normal Univ.**, | China  |
+|                                     | B.Sc.,                         | Computer Science  |

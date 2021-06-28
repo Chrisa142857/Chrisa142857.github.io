@@ -1,6 +1,9 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Zi-quan Wei
+logo: /assets/img/wei.jpg
+description: Second-year Master student in HUST.
+show_buttons: true
+index_url: https://chrisa142857.github.io/index
+project_url: https://chrisa142857.github.io/projects
+publication_url: https://chrisa142857.github.io/publications
 google_analytics:
 theme: jekyll-theme-minimal
