@@ -29,3 +29,13 @@ Recently I have submitted a preprint paper, and have been working on an on-going
 |                                     | M.Sc.,                       | Biomedical Engineering  |
 | Sept. 2015 - Jul. 2019 | **YunNan Normal Univ.**, | China  |
 |                                     | B.Sc.,                         | Computer Science  |
+
+## Hobbies
+- Kendo
+- Violin
+- Climbing
+- Sci-fi
+- Movie
+- comics
+- fantasy
+- etc.
