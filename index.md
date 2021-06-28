@@ -16,10 +16,10 @@ Recently I have submitted a preprint paper, and have been working on an on-going
 |:-------------|:------------------|:------|
 | Sept. 2019 - Now         | **Collaborative Innovation Center for Biomedical Engineering**, | China  |
 |                                     | Wuhan National Laboratory for Optoelectronics,  |  HUST  |
-|                                     | Advisor:                   | [Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm)   |
+|                                     | Advisor: [Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm) | |
 | Sept. 2015 - Jul. 2019 | **Lab of Pattern Recognition and Artificial Intelligence**, | China  |
 |                                     | School of Information Science and Technology, | YNNU  |
-|                                     | Advisor:                   | [Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN)   |
+|                                     | Advisor: [Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN) | |
 
 # Education
 
