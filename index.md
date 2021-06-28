@@ -34,13 +34,7 @@ Recently I have submitted a preprint paper, and have been working on an on-going
 
 |         |           |   |
 |:------|:------|:------|
-| 
-- Kendo 
-| 
-- Violin
-| 
-- Sci-fi 
-|
-| - Climbing | - Movie | - Vedio Games |
-| - comics | - fantasy | etc. |
+| Kendo | Violin | Sci-fi |
+| Climbing | Movie | Vedio Games |
+| Comics | Fantasy | etc. |
 
