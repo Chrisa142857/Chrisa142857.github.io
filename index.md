@@ -10,7 +10,7 @@ I am interested in point set registration, image registration and deep learning,
 
 Recently I have submitted a preprint paper, and have been working on an on-going in-the-wild emotion recognition competition associated with **ICCV 2021**. Our model on the validation set significantly outperforms the baseline and the champion of last year. 
 
-[[A Letter for Professors]](https://github.com/Chrisa142857/Chrisa142857.github.io/blob/main/assets/Cover%20Letter.pdf)
+[[Cover Letter for Professors]](https://github.com/Chrisa142857/Chrisa142857.github.io/blob/main/assets/Cover%20Letter.pdf)
 
 # Research Experience
 
