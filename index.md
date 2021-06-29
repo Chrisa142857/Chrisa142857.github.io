@@ -2,13 +2,15 @@
 layout: default
 ---
 
-# About me
+# About me [[CV]](https://github.com/Chrisa142857/Chrisa142857.github.io/raw/main/assets/Curriculum%20Vitae.pdf)
 
 I am a second-year Master student at Huazhong University of Science and Technology. My Advisor is Prof. [Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm).
 
 I am interested in point set registration, image registration and deep learning, especially Gaussian mixture model (GMM) and whole slide image (WSI) analysis.
 
-Recently I have submitted a preprint paper, and have been working on an on-going in-the-wild emotion recognition competition associated with **ICCV 2021**. Our model on the validation set significantly outperforms the baseline and the champion of last year.
+Recently I have submitted a preprint paper, and have been working on an on-going in-the-wild emotion recognition competition associated with **ICCV 2021**. Our model on the validation set significantly outperforms the baseline and the champion of last year. 
+
+[[A Letter for Professers]](https://github.com/Chrisa142857/Chrisa142857.github.io/raw/main/assets/Cover%20Letter.pdf)
 
 # Research Experience
 
