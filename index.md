@@ -10,7 +10,7 @@ I am interested in point set registration, image registration and deep learning,
 
 **<font color=red>News:</font>**
 
-Recently I have submitted a preprint paper to the journal [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis), and have been working on an on-going in-the-wild emotion recognition competition associated with [ICCV 2021](https://ibug.doc.ic.ac.uk/resources/iccv-2021-2nd-abaw/). Our model on the validation set significantly outperforms the baseline and the champion of last year. 
+- Recently I have submitted a preprint paper to the journal [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis), and have been working on an on-going in-the-wild emotion recognition competition associated with [ICCV 2021](https://ibug.doc.ic.ac.uk/resources/iccv-2021-2nd-abaw/). Our model on the validation set significantly outperforms the baseline and the champion of last year. 
 
 # Research Experience
 
