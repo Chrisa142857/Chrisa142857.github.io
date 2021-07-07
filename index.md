@@ -10,7 +10,7 @@ I am interested in point set registration, image registration and deep learning,
 
 **<font color=red>News:</font>**
 
-- _08/07/2021_: Results submitted via Email![[Leader's codes]](https://github.com/sucv/ABAW2)[[My codes]](https://github.com/Chrisa142857/ABAW2/tree/multi-task) I have been working on an ongoing in-the-wild emotion recognition [competition](https://ibug.doc.ic.ac.uk/resources/iccv-2021-2nd-abaw/) associated with **ICCV 2021**. Our model on the validation set significantly outperforms the baseline and the champion of last year. 
+- _08/07/2021_: Results submitted via Email. [[Leader's codes]](https://github.com/sucv/ABAW2)[[My codes]](https://github.com/Chrisa142857/ABAW2/tree/multi-task) I have been working on an ongoing in-the-wild emotion recognition [competition](https://ibug.doc.ic.ac.uk/resources/iccv-2021-2nd-abaw/) associated with **ICCV 2021**. Our model on the validation set significantly outperforms the baseline and the champion of last year. 
 - _30/06/2021_: A preprint paper[[arXiv]](https://arxiv.org/abs/2106.15113) submitted to the journal [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
 
 # Research Experience
