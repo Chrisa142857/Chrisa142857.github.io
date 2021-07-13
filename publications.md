@@ -4,7 +4,7 @@ layout: default
 
 # Publications:
 
-0.  Su Zhang^, Yi Ding^, **Ziquan Wei^**, Cuntai Guan*: _Audio-visual Attentive Fusion for Continuous Emotion Recognition_, PREPRINT, submitted to **ICCV 2021**, 2021. [arXiv:2107.01175](https://arxiv.org/abs/2107.01175)
+0.  Su Zhang^, Yi Ding^, **Ziquan Wei^**, Cuntai Guan*: _Audio-visual Attentive Fusion for Continuous Emotion Recognition_, PREPRINT, submitted to **ICCV 2021**, 2021. [arXiv:2107.01175](https://arxiv.org/abs/2107.01175)[[code]](https://github.com/sucv/ABAW2/tree/prototype)
 1.  Shenghua Cheng, Sibo Liu, Jingya Yu, Gong Rao, Yuwei Xiao, Wei Han, Wenjie Zhu, Xiaohua Lv, Ning Li, Jing Cai, Zehua Wang, Xi Feng, Fei Yang, Xiebo Geng, Jiabo Ma, Xu Li, **Ziquan Wei** et al.: _Robust Whole Slide Image Analysis for Cervical Cancer Screening Using Deep Learning_, PREPRINT, submitted to **Nature communications**, 2021. [DOI: 10.21203/rs.3.rs-377187/v1](https://doi.org/10.21203/rs.3.rs-377187/v1)
 2.  **Ziquan Wei**, Shenghua Cheng*, Xiuli Liu, Shaoqun Zeng: _An Efficient Cervical Whole Slide Image Analysis Framework Based on Multi-scale Semantic and Spatial Features using Deep Learning_, PRIPRINT, submitted to **Medical Image Analysis**, 2021. [arXiv:2106.15113](https://arxiv.org/abs/2106.15113) [[code]](https://github.com/Chrisa142857/You-Only-Look-Cytopathology-Once)
 3.  Zhuoqian Yang, Yang Yang*, Kun Yang, **Ziquan Wei**: _Non-Rigid Image Registration With Dynamic Gaussian Component Density and Space Curvature Preservation_, **IEEE Transactions on Image Processing**, 28:2584-2598 [DOI: 10.1109/TIP.2018.2887204](https://doi.org/10.1109/TIP.2018.2887204)
