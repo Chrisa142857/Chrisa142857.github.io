@@ -6,3 +6,8 @@ header {
   width: 300px;
   z-index: -1;
 }
+footer {
+  right: 72%;
+  width: 300px;
+  z-index: -1;
+}
