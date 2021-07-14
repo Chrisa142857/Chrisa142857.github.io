@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About me [[CV]](https://github.com/Chrisa142857/Chrisa142857.github.io/blob/main/assets/Curriculum%20Vitae.pdf)
+# About me [[CV]](https://drive.google.com/file/d/1KbfENGCsAXfZWAdQUl0ReBLsKogCU1Ji/view?usp=sharing)
 
 I am a second-year Master student at Huazhong University of Science and Technology. My Advisor is Prof. [Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm).
 
