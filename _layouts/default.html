@@ -40,6 +40,9 @@
           <li><a href="{{ site.publication_url }}">My <strong>publication</strong></a></li>
         </ul>
         {% endif %}
+        {% if site.github.is_research_statement %}
+        <p class="view"><a href="{{ site.github.research_statement_url }}">Research Statement</a></p>
+        {% endif %}
       </header>
       <section>
 
