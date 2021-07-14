@@ -10,11 +10,11 @@ I am interested in point set registration, image registration and deep learning,
 
 **<font color=red>News:</font>**
 
-- _08/07/2021_: Competition results submitted. [[arXiv](https://arxiv.org/abs/2107.01175),[Leader's codes](https://github.com/sucv/ABAW2),[My PR codes](https://github.com/sucv/ABAW2/tree/prototype)] 
+- _08/07/2021_: Competition results submitted. [[arXiv](https://arxiv.org/abs/2107.01175),[codes](https://github.com/sucv/ABAW2/tree/prototype)] 
 
 > I have been working on an ongoing in-the-wild emotion recognition [competition](https://ibug.doc.ic.ac.uk/resources/iccv-2021-2nd-abaw/) associated with **ICCV 2021**. Our model on the validation set significantly outperforms the baseline, the champion of last year and most participants who published their paper in the arXiv. 
 
-- _30/06/2021_: A preprint paper[[arXiv](https://arxiv.org/abs/2106.15113),[codes](https://github.com/Chrisa142857/You-Only-Look-Cytopathology-Once)] submitted to the journal [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
+- _30/06/2021_: A preprint paper[[arXiv](https://arxiv.org/abs/2106.15113),[codes](https://github.com/Chrisa142857/You-Only-Look-Cytopathology-Once)] submitted to **Medical Image Analysis**.
 
 # Research Experience
 
