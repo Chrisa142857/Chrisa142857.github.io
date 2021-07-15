@@ -22,11 +22,16 @@
 
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        <img src="{{ site.github.owner_url }}" alt="Logo" />
-
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        
+        <a href="{{ site.github.owner_url }}"><img border="0" src="/assets/img/GitHub-Mark-32px.png" width="32" height="32" /></a>
+        <a href="{{ site.github.linkedin_url }}"><img border="0" src="/assets/img/LI-In-Bug.png" width="32" height="32" /></a>
+        <a href="{{ site.github.twitter_url }}"><img border="0" src="/assets/img/2021 Twitter logo - blue.png" width="32" height="32" /></a>
+        <a href="{{ site.github.rg_url }}"><img border="0" src="/assets/img/researchgate_icon_130843.png" width="32" height="32" /></a>
+        
         {% if site.show_buttons %}
         <ul class="downloads">
           <li><a href="{{ site.index_url }}">About <strong>me</strong></a></li>
