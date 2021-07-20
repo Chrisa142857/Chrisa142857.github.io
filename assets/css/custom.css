@@ -11,16 +11,21 @@ footer {
   width: 300px;
   z-index: -1;
 }
-body {
-  background-color: white;
-  color: black;
+
+html, html[data-theme="light"], {
+  --light-text-color: hsl(0, 0%, 35%);
+  --main-background-color: hsl(0, 5%, 95%);
+  --main-text-color: hsl(0, 0%, 0%);
 }
 
-.dark-mode {
-  background-color: black;
-  color: white;
+html[data-theme="dark"] {
+  --light-text-color: hsl(0, 0%, 60%);
+  --main-background-color: hsl(0, 0%, 10%);
+  --main-text-color: hsl(0, 10%, 80%);
 }
 
-strong{
-  color: #267CB9;
+@media (prefers-color-scheme: dark) {
+    html {
+      content: "dark";
+    }
 }
