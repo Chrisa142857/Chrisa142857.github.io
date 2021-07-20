@@ -29,8 +29,6 @@ I am interested in point set registration, image registration and deep learning,
 |                                     | School of Information Science and Technology, | YNNU  |
 |                                     | Advisor: [Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN) | |
 
-<hr/>
-
 # Education
 
 |         |           |   |
@@ -39,8 +37,6 @@ I am interested in point set registration, image registration and deep learning,
 |                                     | M.Sc.,                       | Biomedical Engineering  |
 | Sept. 2015 - Jul. 2019 | **YunNan Normal Univ.**, | China  |
 |                                     | B.Sc.,                         | Computer Science  |
-
-<hr/>
 
 ## Hobbies
 
