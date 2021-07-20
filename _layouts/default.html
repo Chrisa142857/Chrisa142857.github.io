@@ -16,6 +16,12 @@
       gtag('js', new Date());
       gtag('config', 'G-SKT5GY93LS');
     </script>
+    <script>
+    function switchDarkMode() {
+       var element = document.body;
+       element.classList.toggle("dark-mode");
+    }
+    </script>
   </head>
   <body>
     <div class="wrapper">
@@ -47,6 +53,7 @@
 
       </section>
       <footer>
+        <button onclick="switchDarkMode()">Toggle dark mode</button>
         <p>This project is maintained by <a href="{{ site.index_url }}">Ziquan Wei</a></p>
       </footer>
     </div>
