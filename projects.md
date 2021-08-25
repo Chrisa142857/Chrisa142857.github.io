@@ -4,6 +4,11 @@ layout: default
 
 # Projects:
 
+### Comprehensive whole slide image analysis of cervical cancer using weakly supervised deep learning approaches 
+
+- Externally Funded
+- Ziquan Wei and Shenghua Cheng and Shaoqun Zeng (2019--present)
+ 
 ### Feature points based real-time non-rigid registration method on multi-view multi-temporal UAV image
 
 - Funded by _National College Students’ innovation and entrepreneurship training program_
