@@ -1,8 +1,6 @@
-/* html {
-
-filter: invert(1);
-
-} */
+.darkmode-ignore{
+  width: 100%;
+}
 section {
   width: 100%;
 }
