@@ -41,17 +41,29 @@
       
       <section>
         {% if site.show_buttons %}
-        <ul class="downloads" style="width: 150; background-color: white">
-          <li><a href="{{ site.index_url }}"><strong>Home</strong></a></li> 
-          <li><a href="{{ site.project_url }}"><strong>Projects</strong></a></li>
-          <li><a href="{{ site.publication_url }}"><strong>Publications</strong></a></li>
-<!--           <li></li> -->
-        </ul>
+<!--         <ul class="downloads" style="width: 150; background-color: white">
+          <li></li> 
+          <li></li>
+          <li></li>
+        </ul> -->
+        <a href="{{ site.index_url }}"><strong>Home</strong></a>
+        " | "
+        <a href="{{ site.project_url }}"><strong>Projects</strong></a>
+        " | "
+        <a href="{{ site.publication_url }}"><strong>Publications</strong></a>
+        " | "
         <a href="{{ site.research_statement_url }}">[Research Statement.pdf]</a>
         {% endif %}
         <div  style="border: 1px solid; border-radius: 6px; padding: 10px; background-color: white">
           {{ content }}
         </div>
+        <a href="{{ site.index_url }}"><strong>Home</strong></a>
+        " | "
+        <a href="{{ site.project_url }}"><strong>Projects</strong></a>
+        " | "
+        <a href="{{ site.publication_url }}"><strong>Publications</strong></a>
+        " | "
+        <a href="{{ site.research_statement_url }}">[Research Statement.pdf]</a>
       </section>
       <footer>
         <p>This project is maintained by <a href="{{ site.index_url }}">Ziquan Wei</a></p>
