@@ -1,14 +1,19 @@
 section {
-  width: 90%;
+  width: 100%;
 }
 header {
-  right: 72%;
-  width: 27%;
+  left: 1%;
+/*   width: 16%; */
   z-index: -1;
 }
+header ul {
+  top: 34%;
+  right: 25%;
+  float: left
+}
 footer {
-  right: 72%;
-  width: 27%;
+  left: 1%;
+/*   width: 200; */
   z-index: -1;
 }
 
