@@ -42,28 +42,32 @@
       <section>
         {% if site.show_buttons %}
 <!--         <ul class="downloads" style="width: 150; background-color: white">
-          <li></li> 
-          <li></li>
-          <li></li>
+          <li><strong></strong></li> 
+          <li><strong></strong></li>
+          <li><strong></strong></li>
         </ul> -->
-        <a href="{{ site.index_url }}"><strong>Home</strong></a>
-        " | "
-        <a href="{{ site.project_url }}"><strong>Projects</strong></a>
-        " | "
-        <a href="{{ site.publication_url }}"><strong>Publications</strong></a>
-        " | "
-        <a href="{{ site.research_statement_url }}">[Research Statement.pdf]</a>
+        <div style="margin-bottom: 1%">
+          <a href="{{ site.index_url }}">Home</a>
+           | 
+          <a href="{{ site.project_url }}">Projects</a>
+           | 
+          <a href="{{ site.publication_url }}">Publications</a>
+           | 
+          <a href="{{ site.research_statement_url }}">[Research Statement.pdf]</a>
+        </div>
         {% endif %}
-        <div  style="border: 1px solid; border-radius: 6px; padding: 10px; background-color: white">
+        <div style="border: 1px solid; border-radius: 6px; padding: 10px; background-color: white">
           {{ content }}
         </div>
-        <a href="{{ site.index_url }}"><strong>Home</strong></a>
-        " | "
-        <a href="{{ site.project_url }}"><strong>Projects</strong></a>
-        " | "
-        <a href="{{ site.publication_url }}"><strong>Publications</strong></a>
-        " | "
-        <a href="{{ site.research_statement_url }}">[Research Statement.pdf]</a>
+        <div style="margin-bottom: 1%">
+          <a href="{{ site.index_url }}">Home</a>
+           | 
+          <a href="{{ site.project_url }}">Projects</a>
+           | 
+          <a href="{{ site.publication_url }}">Publications</a>
+           | 
+          <a href="{{ site.research_statement_url }}">[Research Statement.pdf]</a>
+        </div>
       </section>
       <footer>
         <p>This project is maintained by <a href="{{ site.index_url }}">Ziquan Wei</a></p>
