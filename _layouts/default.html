@@ -10,7 +10,28 @@
     <link rel="stylesheet" href="{{ "/assets/css/custom.css?v=" | append: site.github.build_revision | relative_url }}">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SKT5GY93LS"></script>
+    <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
     <script>
+      function addDarkmodeWidget() {
+        const options = {
+          bottom: '64px', // default: '32px'
+          right: 'unset', // default: '32px'
+          left: '32px', // default: 'unset'
+          time: '0.5s', // default: '0.3s'
+          mixColor: '#fff', // default: '#fff'
+          backgroundColor: '#fff',  // default: '#fff'
+          buttonColorDark: '#100f2c',  // default: '#100f2c'
+          buttonColorLight: '#fff', // default: '#fff'
+          saveInCookies: true, // default: true,
+          label: '🌓', // default: ''
+          autoMatchOsTheme: true // default: true
+        }
+
+        const darkmode = new Darkmode(options);
+        darkmode.showWidget();
+      }
+      window.addEventListener('load', addDarkmodeWidget);
+      
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
@@ -40,12 +61,6 @@
       </header>
       
       <section>
-        {% if site.show_buttons %}
-<!--         <ul class="downloads" style="width: 150; background-color: white">
-          <li><strong></strong></li> 
-          <li><strong></strong></li>
-          <li><strong></strong></li>
-        </ul> -->
         <div style="margin-bottom: 1%">
           <a href="{{ site.index_url }}">Home</a>
            | 
@@ -55,7 +70,6 @@
            | 
           <a href="{{ site.research_statement_url }}">[Research Statement.pdf]</a>
         </div>
-        {% endif %}
         <div style="border: 1px solid; border-radius: 6px; padding: 10px; background-color: white">
           {{ content }}
         </div>
@@ -69,32 +83,11 @@
           <a href="{{ site.research_statement_url }}">[Research Statement.pdf]</a>
         </div>
       </section>
+      
       <footer>
         <p>This project is maintained by <a href="{{ site.index_url }}">Ziquan Wei</a></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
-    <script>
-      function addDarkmodeWidget() {
-        const options = {
-          bottom: '64px', // default: '32px'
-          right: 'unset', // default: '32px'
-          left: '32px', // default: 'unset'
-          time: '0.5s', // default: '0.3s'
-          mixColor: '#fff', // default: '#fff'
-          backgroundColor: '#fff',  // default: '#fff'
-          buttonColorDark: '#100f2c',  // default: '#100f2c'
-          buttonColorLight: '#fff', // default: '#fff'
-          saveInCookies: true, // default: true,
-          label: '🌓', // default: ''
-          autoMatchOsTheme: true // default: true
-        }
-
-        const darkmode = new Darkmode(options);
-        darkmode.showWidget();
-      }
-      window.addEventListener('load', addDarkmodeWidget);
-    </script>
   </body>
 </html>
