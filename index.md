@@ -4,7 +4,7 @@ layout: default
 
 # About me [[CV]](https://drive.google.com/file/d/1KbfENGCsAXfZWAdQUl0ReBLsKogCU1Ji/view?usp=sharing)
 
-I am a second-year Master student at Huazhong University of Science and Technology. My Advisor is Prof. [Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm).
+I am a second-year Master student at Huazhong University of Science and Technology. My Advisor is [Prof. Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm).
 
 I am interested in point set registration, image registration and deep learning, especially Gaussian mixture model (GMM) and whole slide image (WSI) analysis.
 
@@ -24,10 +24,10 @@ I am interested in point set registration, image registration and deep learning,
 |:-------------|:------------------|:------|
 | Sept. 2019 - Now         | **Collaborative Innovation Center for Biomedical Engineering**, | China  |
 |                                     | Wuhan National Laboratory for Optoelectronics,  |  HUST  |
-|                                     | Advisor: [Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm) | |
+|                                     | Advisor: [Prof. Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm) | |
 | Sept. 2015 - Jul. 2019 | **Lab of Pattern Recognition and Artificial Intelligence**, | China  |
 |                                     | School of Information Science and Technology, | YNNU  |
-|                                     | Advisor: [Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN) | |
+|                                     | Advisor: [Prof. Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN) | |
 
 # Education
 
