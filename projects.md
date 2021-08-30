@@ -4,7 +4,7 @@ layout: default
 
 # Projects:
 
-### Comprehensive whole slide image analysis of cervical cancer using weakly supervised deep learning approaches 
+### Comprehensive whole slide image analysis of cervical cancer using fully supervised deep learning approaches with limited learnable data
 
 - Externally Funded
 - Ziquan Wei and Shenghua Cheng and Shaoqun Zeng (2019--present)
