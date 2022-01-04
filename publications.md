@@ -11,6 +11,5 @@ layout: default
 4.  Su Zhang, Yang Yang*, Kun Yang, **Ziquan Wei**: _Non-rigid point set registration using dual-feature finite mixture model and global-local structural preservation_, **Pattern Recognition**, 2018, 80:183-195. [DOI: 10.1016/j.patcog.2018.03.004](https://doi.org/10.1016/j.patcog.2018.03.004)
 5.  **Ziquan Wei**, Yang Yang*, Kun Yang, Su Zhang: _Registration Based on Dual-Feature Gaussian Mixture Model and Dual-Constraint Spatial Transformation_, **Journal of Software**; Journal of Software is a top-level Chinese journal on Computer Science and Computer Engineering, EI index searching; 2018, 29(11):341-359. [DOI: 10.13328/j.cnki.jos.005300](https://doi.org/10.13328/j.cnki.jos.005300)[[code](https://github.com/Chrisa142857/DGDT)]
 6.  **Ziquan Wei**, Yifeng Han, Mengya Li, Kun Yang*, Yang Yang*, Yi Luo*, Sim-Heng Ong: _A Small UAV Based Multi-Temporal Image Registration for Dynamic Agricultural Terrace Monitoring_, **Remote Sensing**, 9(9). [DOI: 10.3390/rs9090904](https://doi.org/10.3390/rs9090904)[[code](https://github.com/Chrisa142857/DGDT)]
-[^_^]: 7.  Xueying Zhang, Shenghua Cheng*, **Ziquan Wei**, Xu Li, Sibo Liu, Shaoqun Zeng: _Alternate and Iterative Neural Architecture Search for 3D Medical Image Segmentation_, submitted to **Neural Networks**, 2021.
 
 > *: Corresponding Author; ^ indicates equal contribution.
