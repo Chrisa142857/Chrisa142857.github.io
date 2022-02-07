@@ -45,6 +45,6 @@ I am interested in point set registration, image registration and deep learning,
 |         |           |   |
 |:------|:------|:------|
 | Kendo | Violin | Sci-fi |
-| Climbing | Movie | Vedio Games |
+| Climbing | Movie | Video Games |
 | Comics | Fantasy | etc. |
 
