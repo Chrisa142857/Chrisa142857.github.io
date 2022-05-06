@@ -24,10 +24,10 @@ I am interested in point set registration, image registration and deep learning.
 
 |         |           |   |
 |:-------------|:------------------|:------|
-| Sept. 2019 - Now         | **Collaborative Innovation Center for Biomedical Engineering**, | China  |
+| Sept. 2019 - Now         | **Collaborative Innovation Center for Biomedical Engineering**, | Wuhan  |
 |                                     | Wuhan National Laboratory for Optoelectronics,  |  HUST  |
 |                                     | Advisor: [Prof. Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm) | |
-| Sept. 2015 - Jul. 2019 | **Lab of Pattern Recognition and Artificial Intelligence**, | China  |
+| Sept. 2015 - Jul. 2019 | **Lab of Pattern Recognition and Artificial Intelligence**, | Kunming  |
 |                                     | School of Information Science and Technology, | YNNU  |
 |                                     | Advisor: [Prof. Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN) | |
 
@@ -35,9 +35,9 @@ I am interested in point set registration, image registration and deep learning.
 
 |         |           |   |
 |:-------------|:------------------|:------|
-| Sept. 2019 - Now         | **Huazhong Univ. of Science and Technology**, | China  |
+| Sept. 2019 - Now         | **Huazhong Univ. of Science and Technology** (HUST), | Wuhan, China  |
 |                                     | M.Sc.,                       | Biomedical Engineering  |
-| Sept. 2015 - Jul. 2019 | **YunNan Normal Univ.**, | China  |
+| Sept. 2015 - Jul. 2019 | **YunNan Normal Univ.** (YNNU), | Kunming, China  |
 |                                     | B.Sc.,                         | Computer Science  |
 
 ## Hobbies
