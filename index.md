@@ -6,7 +6,7 @@ layout: default
 
 I am a final-year Master student at Huazhong University of Science and Technology. My Advisor is [Prof. Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm).
 
-I am interested in point set registration, image registration and deep learning, especially Gaussian mixture model (GMM) and whole slide image (WSI) analysis.
+I am interested in point set registration, image registration and deep learning.
 
 <hr/>
 
