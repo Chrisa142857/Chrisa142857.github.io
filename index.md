@@ -4,13 +4,15 @@ layout: default
 
 # About me [[CV]](https://drive.google.com/file/d/1KbfENGCsAXfZWAdQUl0ReBLsKogCU1Ji/view?usp=sharing)
 
-I am a final-year Master student at Huazhong University of Science and Technology. My Advisor is [Prof. Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm).
+I am going to do my PhD at School of Computer Science, University of Birmingham this year. My Master was at Huazhong University of Science and Technology with advisor [Prof. Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm). My Bachelor was at Yunnan Normal University with advisor [Prof. Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN).
 
-I am interested in point set registration, image registration and deep learning.
+I am interested in image registration, medical image analysis and deep learning.
 
 <hr/>
 
 **<font color=red>News:</font>**
+
+- _31/5/2022_: The last part in my master thesis, GC detection using its basic shape by deep learning, is preprint, and it is preparing to submit to IEEE Transactions on Medical Imaging. [[arXiv](https://arxiv.org/abs/2205.14625),[codes](https://github.com/Chrisa142857/PolarNet-GCdet)]
 
 - _18/12/2021_: The C++ deployment of the preprint paper (under review) is released on [Github](https://github.com/Chrisa142857/You-Only-Look-Cytopathology-Once/tree/main/cpp). The speed is lower than `1 min/WSI` with the same computation in Python.
 
