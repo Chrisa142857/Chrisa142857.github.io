@@ -6,7 +6,7 @@ layout: default
 
 My Master was at Huazhong University of Science and Technology with advisor [Prof. Shaoqun Zeng](http://ses.hust.edu.cn/info/1092/1343.htm). My Bachelor was at Yunnan Normal University with advisor [Prof. Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN).
 
-I am interested in image registration, medical image analysis and deep learning.
+I am interested in medical image analysis and deep learning.
 
 <hr/>
 
