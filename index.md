@@ -12,6 +12,8 @@ I am interested in medical image analysis and deep learning.
 
 **<font color=red>News:</font>**
 
+- _13/2/2023_: A paper is accepted by the conference IEEEISBI2023.
+
 - _31/5/2022_: The last part in my master thesis, GC detection using its basic shape by deep learning, is preprint, and it is preparing to submit to IEEE Transactions on Medical Imaging. [[arXiv](https://arxiv.org/abs/2205.14625),[codes](https://github.com/Chrisa142857/PolarNet-GCdet)]
 
 - _18/12/2021_: The C++ deployment of the preprint paper (under review) is released on [Github](https://github.com/Chrisa142857/You-Only-Look-Cytopathology-Once/tree/main/cpp). The speed is lower than `1 min/WSI` with the same computation in Python.
