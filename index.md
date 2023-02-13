@@ -29,7 +29,7 @@ I am interested in medical image analysis and deep learning.
 |         |           |   |
 |:-------------|:------------------|:------|
 | Aug. 2022 - Present   | **ACM Lab**, | Chapel Hill  |
-|                                     | School of Medicine,  |  UNC-CH  |
+|                                     | Department of Psychiatry,  |  UNC-CH  |
 |                                     | Advisor: [Dr. Guorong Wu](https://acmlab.org/) | |
 | Aug. 2019 - Jun. 2022 | **Collaborative Innovation Center for Biomedical Engineering**, | Wuhan  |
 |                                     | Wuhan National Laboratory for Optoelectronics,  |  HUST  |
