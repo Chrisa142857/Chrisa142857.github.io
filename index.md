@@ -19,7 +19,7 @@ I am interested in medical image analysis and deep learning.
 - _18/12/2021_: The C++ deployment of the preprint paper (under review) is released on [Github](https://github.com/Chrisa142857/You-Only-Look-Cytopathology-Once/tree/main/cpp). The speed is lower than `1 min/WSI` with the same computation in Python.
 
 <details>
-  <summary>show previous news</summary>
+  <summary><font color=blue>show previous news</font></summary>
 
 - _15/07/2021_: Our team, FlyingPigs, got **5/40** in an emotion recognition [competition](https://ibug.doc.ic.ac.uk/resources/iccv-2021-2nd-abaw/) published in **ICCV 2021**. [[arXiv](https://arxiv.org/abs/2107.01175),[codes](https://github.com/sucv/ABAW2/tree/prototype),[leaderboard](https://github.com/dkollias/ABAW2-Results/blob/main/abaw2_va_leaderboard.pdf/)] 
 
