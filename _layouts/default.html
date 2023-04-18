@@ -1,95 +1,31 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}" style="min-height: 101%">
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/custom.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SKT5GY93LS"></script>
-    <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
-    <script>
-      function addDarkmodeWidget() {
-        const options = {
-//           top: '12px',
-          bottom: '64px', // default: '32px'
-          right: 'unset', // default: '32px'
-          left: '32px', // default: 'unset'
-          time: '0.5s', // default: '0.3s'
-          mixColor: '#fff', // default: '#fff'
-          backgroundColor: '#fff',  // default: '#fff'
-          buttonColorDark: '#100f2c',  // default: '#100f2c'
-          buttonColorLight: '#fff', // default: '#fff'
-          saveInCookies: true, // default: true,
-          label: '🌓', // default: ''
-          autoMatchOsTheme: true // default: true
-        }
-
-        const darkmode = new Darkmode(options);
-        darkmode.showWidget();
-      }
-      window.addEventListener('load', addDarkmodeWidget);
-      
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-SKT5GY93LS');
-    </script>
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
-  <body>
-    <div class="wrapper">
 
-      <header>
-        <h1>
-          <a href="{{ "/" | absolute_url }}">
-            {{ site.title | default: site.github.repository_name }}
-            {% if site.title_cn %}
-            <br>{{ site.title_cn }}
-            {% endif %}
-          </a>
-        </h1>
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="max-width: 50%" class="darkmode-ignore"/>
-        {% endif %}
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <a href="{{ site.github.owner_url }}"><img border="0" src="/assets/img/GitHub-Mark-32px.png" width="32" height="32" /></a>
-        <a href="{{ site.linkedin_url }}"><img border="0" src="/assets/img/LI-In-Bug.png" width="38" height="32" /></a>
-        <a href="{{ site.twitter_url }}"><img border="0" src="/assets/img/2021 Twitter logo - blue.png" width="39" height="32" /></a>
-        <a href="{{ site.rg_url }}"><img border="0" src="/assets/img/researchgate_icon_130843.png" width="32" height="32" /></a>
-        <a href="{{ site.googlescholar_url }}"><img border="0" src="/assets/img/googlescholar_icon.jpg" width="32" height="32" /></a>
-      </header>
-      
-      <section>
-        <div style="margin-bottom: 1%">
-          <a href="{{ site.index_url }}">Home</a>
-           | 
-          <a href="{{ site.project_url }}">Projects</a>
-           | 
-          <a href="{{ site.publication_url }}">Publications</a>
-           | 
-          <a href="{{ site.research_statement_url }}">[Research Statement.pdf]</a>
-        </div>
-        <div style="border: 1px solid; border-radius: 6px; padding: 10px; background-color: white">
-          {{ content }}
-        </div>
-        <div style="margin-top: 1%; margin-bottom: 1%">
-          <a href="{{ site.index_url }}">Home</a>
-           | 
-          <a href="{{ site.project_url }}">Projects</a>
-           | 
-          <a href="{{ site.publication_url }}">Publications</a>
-           | 
-          <a href="{{ site.research_statement_url }}">[Research Statement.pdf]</a>
-        </div>
-        <p>This website is maintained by <a href="{{ site.index_url }}">Ziquan Wei</a></p>
-      </section>
-      
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
       <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+    {% include scripts.html %}
+
   </body>
 </html>
