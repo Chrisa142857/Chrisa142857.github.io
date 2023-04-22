@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :  "G-SKT5GY93LS"
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ziquan Wei"
   avatar           : "profile.png"
-  bio              : "Researcher"
+  bio              : "Predoc Fellow Trainee at UNC-CH"
   location         : "Chapel Hill, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Wei+Ziquan"
