@@ -2,6 +2,44 @@
 
 <!-- start custom head snippets -->
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SKT5GY93LS"></script>
+<script src="
+https://cdn.jsdelivr.net/npm/darkreader@4.9.58/darkreader.min.js
+"></script>
+<script>
+  function darkmode() {
+    let enabled = localStorage.getItem('dark-mode')
+
+    if (enabled === null) {
+      if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          enable();
+      }
+    } else if (enabled === 'true') {
+      enable()
+    }
+
+    if (localStorage.getItem('dark-mode') === 'false') {
+        enable();
+    } else {
+        disable();
+    }
+  }
+  function enable()  {
+    DarkReader.setFetchMethod(window.fetch)
+    DarkReader.enable();
+    localStorage.setItem('dark-mode', 'true');
+  }
+
+  function disable() {
+    DarkReader.disable();
+    localStorage.setItem('dark-mode', 'false');
+  }
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-SKT5GY93LS');
+</script>
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
@@ -34,5 +72,4 @@
   });
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
-
 <!-- end custom head snippets -->
