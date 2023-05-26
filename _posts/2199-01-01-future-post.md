@@ -1,11 +1,9 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Get RoI BOLD timeseries of fMRI data by CONN toolbox'
+date: 2023-05-26
+permalink: https://ziquanw.blogspot.com/2023/05/extracting-roi-bold-signal-of-fmri.html
 tags:
-  - cool posts
-  - category1
-  - category2
+  - BOLD
+  - fMRI
+  - CONN toolbox
 ---
-
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
