@@ -13,6 +13,8 @@ author_profile: true
 
 {% include base_path %}
 
+<br/>
+
 # Highlighted
 
 {% for post in site.publications reversed %}
