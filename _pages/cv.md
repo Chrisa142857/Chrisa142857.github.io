@@ -16,7 +16,7 @@ redirect_from:
 <script type="module">
   // If absolute URL from the remote server is provided, configure the CORS
   // header on that server.
-  var url = '/files/ziquanwei_cv.pdf';
+  var url = 'https://drive.google.com/uc?export=download&id=1DEdcZRh2w6IgyaR52-zagFFlfLI3RWmG';
 
   // Loaded via <script> tag, create shortcut to access PDF.js exports.
   var { pdfjsLib } = globalThis;
