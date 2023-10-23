@@ -9,9 +9,9 @@ redirect_from:
 
 <!--<embed src="https://github.com/Chrisa142857/Chrisa142857.github.io/blob/293786f0fafaf79812a6d8d550477bfbfe0e2ebb/files/ziquanwei_cv.pdf" width="500" height="375" type="application/pdf">!-->
 
-<!--<embed src="/files/ziquanwei_cv.pdf" width="100%" height="auto" type="application/pdf">!-->
+<embed src="/files/ziquanwei_cv.pdf" width="100%" height="auto" type="application/pdf">
 
-<script src="//mozilla.github.io/pdf.js/build/pdf.mjs" type="module"></script>
+<!--<script src="//mozilla.github.io/pdf.js/build/pdf.mjs" type="module"></script>
 
 <script type="module">
   var url = 'https://raw.githubusercontent.com/Chrisa142857/Chrisa142857.github.io/main/files/ziquanwei_cv.pdf';
@@ -48,7 +48,7 @@ redirect_from:
   }, function (reason) {
     console.error(reason);
   });
-</script>
+</script>!-->
 
 <canvas id="the-canvas"></canvas>
 
