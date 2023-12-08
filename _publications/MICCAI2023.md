@@ -10,4 +10,4 @@ citation: 'Wei, Z., Dan, T., Ding, J., Dere, M., & Wu, G. (2023, October). A Gen
 ---
 
 Our poster:
-![poster]([MICCAI2023_poster.jpg](https://github.com/Chrisa142857/Chrisa142857.github.io/blob/c65dfb24e0cb058e66bfba0eb775d7733c655c55/_publications/MICCAI2023_poster.jpg)https://github.com/Chrisa142857/Chrisa142857.github.io/blob/c65dfb24e0cb058e66bfba0eb775d7733c655c55/_publications/MICCAI2023_poster.jpg)
+![poster](MICCAI2023_poster.jpg)
