@@ -13,4 +13,4 @@ This paper is about whole-brain 3D instance segmentation from light-sheet micros
 [Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_5)
 
 Our poster:
-MICCAI2023_poster.jpg
+![poster](MICCAI2023_poster.jpg)
