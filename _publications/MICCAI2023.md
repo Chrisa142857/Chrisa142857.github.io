@@ -1,7 +1,7 @@
 ---
 title: "A General Stitching Solution for Whole-Brain 3D Nuclei Instance Segmentation from Microscopy Images"
 collection: publications
-permalink: /publication/MICCAI2023
+permalink: /publications/MICCAI2023
 excerpt: 'This paper is about whole-brain 3D instance segmentation from light-sheet microscopy image.'
 date: 2023-10-01
 venue: 'International Conference on Medical Image Computing and Computer-Assisted Intervention'
