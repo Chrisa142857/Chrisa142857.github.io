@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Highlighted publications
+# Highlighted
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-# All publications
+# All
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FcebNHWyS7v2h35hbv&noBootstrap=1&jsonp=1"></script>
 
