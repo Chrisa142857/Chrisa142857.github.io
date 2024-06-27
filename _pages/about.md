@@ -21,21 +21,16 @@ redirect_from:
     <img align='right' width='280' src='https://github-readme-stats.vercel.app/api?username=chrisa142857&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7'>
 <!-- </a>
 
-<div align='right'>My Top Programming Language</div> -->
-<a href='https://github.com/Chrisa142857'>
-<img align='right' width='280' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisa142857">
-</a>
-
-👋 I'm **Ziquan Wei** (魏梓泉 in Chinese). A researcher and PhD student at UNC Chapel Hill .
+👋 I'm **Ziquan Wei** (魏梓泉 in Chinese). A researcher and PhD student at UNC-Chapel Hill.
 
 - 🔭 I’m currently working on modeling neuroimaging with machine learning.
 - 🌱 I’m currently learning human brain MRI data processing.
-- 👯 I’m looking to collaborate on lightsheet 3D microscopy image segmentation.
+- 👯 I’m looking to collaborate on structure-function coupling at a scalable level of brain connectome.
 - 🤔 I’m looking for help with how to make a time machine.
 - 💬 Ask me about **Elo Psy Kongroo**
 - 📫 How to reach me: You can get my LinkedIn, ResearchGate, and Wechat in the top.
 - 😄 Pronouns: Zi-chyuan (/tʃüan/).
-- ⚡ Fun fact: Time machine is not a joke.
+- ⚡ Fun fact: Time machine can be a concept about brain memory.
 
 😊 Thank you for reading my profile.
 
