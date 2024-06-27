@@ -13,8 +13,6 @@ author_profile: true
 
 # All-->
 
-## By Google Scholar
-
 <script src="https://bibbase.org/show?bib=https://bibbase.org/network/files/idso6oxKRy9BgCPEe&jsonp=1"></script> 
 
 {% if author.googlescholar %}
