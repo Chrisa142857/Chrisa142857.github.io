@@ -5,15 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Highlighted
+<!-- # Highlighted
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-# All
+# All-->
 
- <script src="https://bibbase.org/show?bib=https://bibbase.org/network/files/idso6oxKRy9BgCPEe&jsonp=1"></script> 
+## By Google Scholar
+
+<script src="https://bibbase.org/show?bib=https://bibbase.org/network/files/idso6oxKRy9BgCPEe&jsonp=1"></script> 
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
