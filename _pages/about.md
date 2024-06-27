@@ -25,12 +25,12 @@ redirect_from:
 
 - 🔭 I’m currently working on modeling neuroimaging with machine learning.
 - 🌱 I’m currently learning human brain MRI data processing.
-- 👯 I’m looking to collaborate on structure-function coupling at a scalable level of brain connectome.
+- 👯 I’m looking to collaborate on structure-function coupling at scalable levels of brain connectome.
 - 🤔 I’m looking for help with how to make a time machine.
-- 💬 Ask me about **Elo Psy Kongroo**
+- 💬 Ask me about Elo Psy Kongroo.
 - 📫 How to reach me: You can get my LinkedIn, ResearchGate, and Wechat in the top.
 - 😄 Pronouns: Zi-chyuan (/tʃüan/).
-- ⚡ Fun fact: Time machine can be a concept about brain memory.
+- ⚡ Fun fact: Time machine is not impossible regarding memorable experiences.
 
 😊 Thank you for reading my profile.
 
