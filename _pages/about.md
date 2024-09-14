@@ -21,7 +21,7 @@ redirect_from:
     <img align='right' width='280' src='https://github-readme-stats.vercel.app/api?username=chrisa142857&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7'>
 </a>
 
-👋 I'm **Ziquan Wei** (魏梓泉 in Chinese). A researcher and PhD student at UNC-Chapel Hill.
+👋 I'm **Ziquan Wei** (魏梓泉 in Chinese). A researcher and PhD student supervised by [Dr. Guorong Wu](https://www.acmlab.org/team) at UNC-Chapel Hill. I'm meanwhile the system administrator at [ACMLab](https://www.acmlab.org). Previously, I obtained a Master's degree supervised by [Prof. Shaoqun Zeng](https://zh.wikipedia.org/wiki/%E6%9B%BE%E7%BB%8D%E7%BE%A4) and a Bachelor's degree supervised by [Prof. Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN). 
 
 - 🔭 I’m currently working on modeling neuroimaging with machine learning.
 - 🌱 I’m currently learning human brain MRI data processing.
