@@ -23,12 +23,22 @@ redirect_from:
 
 👋 I'm **Ziquan Wei** (魏梓泉 in Chinese). A researcher and PhD student supervised by [Dr. Guorong Wu](https://www.acmlab.org/team) at UNC-Chapel Hill. I'm meanwhile the system administrator at [ACMLab](https://www.acmlab.org). Previously, I obtained a Master's degree supervised by [Prof. Shaoqun Zeng](https://zh.wikipedia.org/wiki/%E6%9B%BE%E7%BB%8D%E7%BE%A4) and a Bachelor's degree supervised by [Prof. Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN). 
 
-- 🔭 I’m currently working on building a human connectomics foundation large model with Graph Neural Networks.
-- 🌱 I’m currently learning human brain MRI data processing.
-- 👯 I’m looking to collaborate on scaling the human connectomics model.
-- 🤔 I’m dreaming of how to make a time machine.
-- ⚡ Fun fact: Time machine is not impossible regarding memorable experiences.
-- 😄 Pronouns: Zi-chyuan (/tʃüan/).
+<span style="color:red">**News:**</span>
+ - ⭐ My paper is accepted by NeurIPS 2024.
+ - ⭐ My paper is accepted by MICCAI 2024.
+
+
+🔭 I’m currently working on building a human connectomics foundation large model with Graph Neural Networks.
+
+🌱 I’m currently learning human brain MRI data processing.
+
+👯 I’m looking to collaborate on scaling the human connectomics model.
+
+🤔 I’m dreaming of how to make a time machine.
+
+⚡ Fun fact: Time machine is not impossible regarding memorable experiences.
+
+😄 Pronouns: Zi-chyuan (/tʃüan/).
 
 <details>
 <summary>Powered Since May 2023</summary>
