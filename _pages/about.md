@@ -24,9 +24,9 @@ redirect_from:
 👋 I'm **Ziquan Wei** (魏梓泉 in Chinese). A researcher and PhD student supervised by [Dr. Guorong Wu](https://www.acmlab.org/team) at UNC-Chapel Hill. I'm meanwhile the system administrator at [ACMLab](https://www.acmlab.org). Previously, I obtained a Master's degree supervised by [Prof. Shaoqun Zeng](https://zh.wikipedia.org/wiki/%E6%9B%BE%E7%BB%8D%E7%BE%A4) and a Bachelor's degree supervised by [Prof. Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN). My research interests are graph learning, brain modeling and decoding, computational neuroscience, and machine learning.
 
 <span style="color:red">**News:**</span>
- - ⭐ My paper is accepted by NeurIPS 2024.
- - ⭐ My paper is accepted by MICCAI 2024.
- - ⭐ One paper is accepted by ICML 2024.
+ - ⭐ My paper is accepted by NeurIPS 2024: [arXiv](https://arxiv.org/abs/2409.17510)
+ - ⭐ My paper is accepted by MICCAI 2024: [MICCAI OA](https://papers.miccai.org/miccai-2024/649-Paper1549.html)
+ - ⭐ One paper is accepted by ICML 2024: [mlr.press](https://proceedings.mlr.press/v235/dan24a.html)
 
 <br />
 
@@ -48,7 +48,7 @@ redirect_from:
   
 <br />
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=iQqJzCTKcRumFQOuhUBlR2HaCf7nKbyuOLrZ87uhBG8&cl=ffffff&w=a">
-
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=200&t=tt&d=iQqJzCTKcRumFQOuhUBlR2HaCf7nKbyuOLrZ87uhBG8&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'>
+  
 </script>
 </details>
