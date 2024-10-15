@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Long may the sunshine"
+title                    : "ziquan"
 title_separator          : "-"
 name                     : &name "Ziquan Wei"
 description              : &description "Humble Researcher in CS and Neuralsciences"
