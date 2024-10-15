@@ -24,7 +24,7 @@ redirect_from:
  - ⭐ My paper is accepted by MICCAI 2024: [Open Access](https://papers.miccai.org/miccai-2024/649-Paper1549.html)
  - ⭐ One paper is accepted by ICML 2024: [Proceedings of MLR](https://proceedings.mlr.press/v235/dan24a.html)
 
-### About my recent life:
+### About my life
 
 🔭 I’m currently working on building a human connectomics foundation model with graph learning.
 
@@ -32,7 +32,7 @@ redirect_from:
 
 👯 I’m looking to collaborate on scaling the brain connectomics model.
 
-🤔 I’m dreaming of how to make a time machine.
+🤔 I’m dreaming of how to make a time machine. Such a big fun of sci-fi :)
 
 ⚡ Fun fact: Time machine is not impossible regarding memorable experiences.
 
