@@ -6,7 +6,18 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            <a href="{{ base_path }}/">
+<!--               {{ site.title }} -->
+                <span class="logo__mark">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" viewBox="0 0 44 44">
+                  <path fill="none" d="M15 8l14.729 14.382L15 35.367"></path>
+                  </svg>
+                </span>
+                <span class="logo__text">$ cd /home/{{ site.title }}</span>
+                <span class="logo__cursor"></span>
+            </a>
+          </li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
