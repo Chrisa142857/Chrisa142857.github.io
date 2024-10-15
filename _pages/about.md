@@ -29,7 +29,7 @@ redirect_from:
  - ⭐ My paper is accepted by MICCAI 2024: [Open Access](https://papers.miccai.org/miccai-2024/649-Paper1549.html)
  - ⭐ One paper is accepted by ICML 2024: [Proceedings of MLR](https://proceedings.mlr.press/v235/dan24a.html)
 
-<br />
+### About my recent life:
 
 🔭 I’m currently working on building a human connectomics foundation model with graph learning.
 
@@ -42,6 +42,12 @@ redirect_from:
 ⚡ Fun fact: Time machine is not impossible regarding memorable experiences.
 
 😄 Pronouns: Zi-chyuan (/tʃüan/).
+
+### Services
+
+ - **Reviewer** (conferences): 2022 - CAAI. 2024 - MICCAI, NeurIPS. 2025 - AISTATS, ICLR.
+ - **Reviewer** (journals): Journal of Supercomputing, Computers in Biology and Medicine, IEEE Systems Journal Associate, Signal, Image and Video Processing.
+ - **Editorial board**: Scientific Reports.
 
 <details>
 <summary>Powered Since May 2023</summary>
