@@ -46,7 +46,7 @@ redirect_from:
 ### Services
 
  - **Reviewer** (conferences): 2022 - CAAI. 2024 - MICCAI, NeurIPS. 2025 - AISTATS, ICLR.
- - **Reviewer** (journals): Journal of Supercomputing, Computers in Biology and Medicine, IEEE Systems Journal Associate, Signal, Image and Video Processing.
+ - **Reviewer** (journals): "Journal of Supercomputing", "Computers in Biology and Medicine", "IEEE Systems Journal Associate", "Signal, Image and Video Processing".
  - **Editorial board**: Scientific Reports.
 
 <details>
