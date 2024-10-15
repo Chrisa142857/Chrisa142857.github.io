@@ -16,19 +16,7 @@ redirect_from:
 
 ### Hi there 👋
 
-<div class="row">
-  <div class="column">
-<!--     <div align='right'>My Github status</div> -->
-    <a href='https://github.com/Chrisa142857'>
-        <img align='right' width='280' src='https://github-readme-stats.vercel.app/api?username=chrisa142857&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7'>
-    </a>
-  </div>
-  
-  <div class="column">
 👋 I'm **Ziquan Wei** (魏梓泉 in Chinese). A researcher and PhD student supervised by [Dr. Guorong Wu](https://www.acmlab.org/team) at UNC-Chapel Hill. I'm meanwhile the system administrator at [ACMLab](https://www.acmlab.org). Previously, I obtained a Master's degree supervised by [Prof. Shaoqun Zeng](https://zh.wikipedia.org/wiki/%E6%9B%BE%E7%BB%8D%E7%BE%A4) and a Bachelor's degree supervised by [Prof. Yang Yang](https://scholar.google.com/citations?user=7JLPFHgAAAAJ&hl=zh-CN). My research interests are graph learning, brain modeling and decoding, computational neuroscience, and machine learning.
-  </div>
-  
-</div>
 
 <span style="color:red">**News:**</span>
  - ⭐ One paper is accepted by PNAS: [arXiv](https://arxiv.org/abs/2406.13958)
@@ -50,12 +38,23 @@ redirect_from:
 
 😄 Pronouns: Zi-chyuan (/tʃüan/).
 
+
 ### Services
 
  - **Reviewer** (conferences): 2022 - CAAI. 2024 - MICCAI, NeurIPS. 2025 - AISTATS, ICLR.
  - **Reviewer** (journals): "Journal of Supercomputing", "Computers in Biology and Medicine", "IEEE Systems Journal Associate", "Signal, Image and Video Processing".
  - **Editorial board**: Scientific Reports.
 
+<div class="row">
+  <div class="column">
+<!--     <div align='right'>My Github status</div> -->
+    <a href='https://github.com/Chrisa142857'>
+        <img align='right' width='280' src='https://github-readme-stats.vercel.app/api?username=chrisa142857&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7'>
+    </a>
+  </div>
+  
+  <div class="column">
+    
 <details>
 <summary>Powered Since May 2023</summary>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fziquanw.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%8F%A0Visits++&edge_flat=false"/></a>
@@ -66,3 +65,6 @@ redirect_from:
   
 </script>
 </details>
+
+  </div>
+</div>
