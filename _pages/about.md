@@ -55,16 +55,9 @@ redirect_from:
   
   <div class="column">
     
-<details>
-<summary>Powered Since May 2023</summary>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fziquanw.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%8F%A0Visits++&edge_flat=false"/></a>
-  
-<br />
-
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=200&t=tt&d=iQqJzCTKcRumFQOuhUBlR2HaCf7nKbyuOLrZ87uhBG8&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'>
   
 </script>
-</details>
 
   </div>
 </div>
