@@ -26,7 +26,7 @@ redirect_from:
 
 ### Research
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     <tr bgcolor="#ffffff">
       <td style="padding:10px;width:35%;vertical-align:middle">
