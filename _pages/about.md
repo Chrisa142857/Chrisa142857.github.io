@@ -30,7 +30,7 @@ redirect_from:
   <tbody>
     <tr bgcolor="#ffffff">
       <td style="padding:10px;width:35%;vertical-align:middle">
-        <img src='https://neurips.cc/media/PosterPDFs/NeurIPS%202024/96225-thumb.png' style="margin-top:0px; width:100%">
+        <img src='https://neurips.cc/media/PosterPDFs/NeurIPS%202024/96225-thumb.png' style="margin-top:0px; width:320px">
       </td>
       <td style="padding-left:10px; padding-top:30px; width:65%;vertical-align:top;">
         <a href="">
@@ -47,7 +47,7 @@ redirect_from:
     </tr>
     <tr bgcolor="#eeeeee">
       <td style="padding:10px;width:35%;vertical-align:middle">
-        <img src='https://neurips.cc/media/PosterPDFs/NeurIPS%202024/102120-thumb.png' style="margin-top:0px; width:100%">
+        <img src='https://neurips.cc/media/PosterPDFs/NeurIPS%202024/102120-thumb.png' style="margin-top:0px; width:320px">
       </td>
       <td style="padding-left:10px; padding-top:30px; width:65%;vertical-align:top;">
         <a href="">
@@ -74,6 +74,20 @@ redirect_from:
         Tingting Dan, <b>Ziquan Wei</b>, Won Hwa Kim, Guorong Wu
         <br>
         <em>ICML</em>, 2024    [<a href="https://openreview.net/forum?id=EYOo48YGhy">PDF</a>][<a href="https://github.com/Dandy5721/ICML2024">Code</a>]
+      </td>
+    </tr>
+    <tr bgcolor="#eeeeee">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+        <img src='https://dandy5721.github.io/dandy.github.io/images/nips.png' style="margin-top:0px; width:320px">
+      </td>
+      <td style="padding-left:10px; padding-top:30px; width:65%;vertical-align:top;">
+        <a href="">
+          Re-Think and Re-Design Graph Neural Networks in Spaces of Continuous Graph Diffusion Functionals
+        </a>
+        <br>
+        Tingting Dan, Jiaqi Ding, <b>Ziquan Wei</b>, Shahar Kovalsky, Minjeong Kim, Won Hwa Kim, Guorong Wu
+        <br>
+        <em>NeurIPS</em>, 2023    [<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/b9fd027eb16434174b8bb3d3b18110af-Abstract-Conference.html">PDF</a>][<a href="https://github.com/Dandy5721/GNN-PDE-COV">Code</a>]
       </td>
     </tr>
     </tbody>
