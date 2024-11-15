@@ -45,7 +45,7 @@ redirect_from:
         </p>
       </td>
     </tr>
-    <tr bgcolor="#aaaaaa">
+    <tr bgcolor="#eeeeee">
       <td style="padding:10px;width:35%;vertical-align:middle">
         <img src='https://neurips.cc/media/PosterPDFs/NeurIPS%202024/102120-thumb.png' style="margin-top:0px; width:100%">
       </td>
