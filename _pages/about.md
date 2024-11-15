@@ -24,6 +24,62 @@ redirect_from:
  - ⭐ My paper is accepted by MICCAI 2024: [Open Access](https://papers.miccai.org/miccai-2024/649-Paper1549.html)
  - ⭐ One paper is accepted by ICML 2024: [Proceedings of MLR](https://proceedings.mlr.press/v235/dan24a.html)
 
+### Research
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr bgcolor="#ffffff">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+        <img src='https://neurips.cc/media/PosterPDFs/NeurIPS%202024/96225-thumb.png' style="margin-top:0px; width:100%">
+      </td>
+      <td style="padding-left:10px; padding-top:30px; width:65%;vertical-align:top;">
+        <a href="">
+          $\textit{NeuroPath}$: A Neural Pathway Transformer for Joining the Dots of Human Connectomes
+        </a>
+        <br>
+        <b>Ziquan Wei</b>, Tingting Dan, Jiaqi Ding, Guorong Wu
+        <br>
+        <em>NeurIPS</em>, 2024    [<a href="https://openreview.net/forum?id=AvBuK8Ezrg">PDF</a>][<a href="https://github.com/Chrisa142857/neuro_detour">Code</a>]
+        <p>
+            We propose NeuroPath to learn scalable detour pathways in the human connectome.
+        </p>
+      </td>
+    </tr>
+    <tr bgcolor="#aaaaaa">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+        <img src='https://neurips.cc/media/PosterPDFs/NeurIPS%202024/102120-thumb.png' style="margin-top:0px; width:100%">
+      </td>
+      <td style="padding-left:10px; padding-top:30px; width:65%;vertical-align:top;">
+        <a href="">
+          Non-local Exchange: Introduce Non-locality via Graph Re-wiring to Graph Neural Networks
+        </a>
+        <br>
+        <b>Ziquan Wei</b>, Guorong Wu
+        <br>
+        <em>NeurIPS workshop BehaviorML</em>, 2024    [<a href="https://openreview.net/forum?id=dw4pR39eUD">PDF</a>]
+        <p>
+            We propose non-local exchange graph re-wiring to improve vanilla GNN performance.
+        </p>
+      </td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+        <img src='https://dandy5721.github.io/dandy.github.io/images/ICML2024.png' style="margin-top:0px; width:320px">
+      </td>
+      <td style="padding-left:10px; padding-top:30px; width:65%;vertical-align:top;">
+        <a href="">
+          Exploring the Enigma of Neural Dynamics Through A Scattering-Transform Mixer Landscape for Riemannian Manifold
+        </a>
+        <br>
+        Tingting Dan, <b>Ziquan Wei</b>, Won Hwa Kim, Guorong Wu
+        <br>
+        <em>ICML</em>, 2024    [<a href="https://openreview.net/forum?id=EYOo48YGhy">PDF</a>][<a href="https://github.com/Dandy5721/ICML2024">Code</a>]
+      </td>
+    </tr>
+    </tbody>
+</table>
+
+
 ### About my life
 
 🔭 I’m currently working on building a human connectomics foundation model with graph learning.
