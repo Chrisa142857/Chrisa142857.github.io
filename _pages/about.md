@@ -34,7 +34,7 @@ redirect_from:
       </td>
       <td style="padding-left:10px; padding-top:30px; width:65%;vertical-align:top;">
         <a href="">
-          $\textit{NeuroPath}$: A Neural Pathway Transformer for Joining the Dots of Human Connectomes
+          NeuroPath: A Neural Pathway Transformer for Joining the Dots of Human Connectomes
         </a>
         <br>
         <b>Ziquan Wei</b>, Tingting Dan, Jiaqi Ding, Guorong Wu
